@@ -1,9 +1,9 @@
-```markdown
+
 <div align="center">
 
 <!-- Banner (paste capsule-render code here) -->
 
-### Hi, I'm Taha 👋 — I build things that are a little too ambitious for a 20-year-old.
+### Hey, I'm Taha  — I build things that are a little too ambitious for a 20-year-old.
 
 </div>
 
@@ -34,4 +34,4 @@ I'm looking for **internships, open-source collabs, and projects** where the pro
 📫 **Reach me:** [tahazaman85@gmail.com](mailto:tahazaman85@gmail.com) · [LinkedIn](https://www.linkedin.com/in/taha-0-zaman/) · [GitHub](https://github.com/Tamz-0)
 
 ---
-```
+
